@@ -4,11 +4,11 @@ Utility project for csv files. The instruction provided below are for Windows ma
 
 ## Prerequisites
 
-### Install Git
+#### Install Git
 
 Use this link to install git for windows: https://git-scm.com/download/win
 
-### Install Python
+#### Install Python
 
 Use this link to install python on windows: https://www.python.org/downloads/
 
