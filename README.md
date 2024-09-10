@@ -21,8 +21,6 @@ Use this link to install python on windows: https://www.python.org/downloads/
 1.  Run `pip install -r requirements.txt`
 1.  Run `python .\csv-compare.py` and follow the prompts
 
-        NOTE: The excel sheets need to have the same columns to work.
-
 ## Example
 
 If you followed all of the instructions above, you can use the example files in `/examples` to do an example compare. The output show look like this:
